@@ -82,7 +82,6 @@ completionMethod: manual
 - campus
 - cancer
 - carbon
-- career
 - center
 - chance
 - change
